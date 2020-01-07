@@ -2,13 +2,14 @@
 	"name": "gitblitbuddy",
 	"displayName": "gitblitbuddy",
 	"description": "gitblit user commands ",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "drunkencub",
 	"author": {
 		"name": "drunkencub",
 		"email": "contact@chathuranga.com",
 		"url": "http://www.chathuranga.com"
 	},
+	"repository": {"url": "https://github.com/DrunkenCub/gitblitbuddy.git"},
 	"engines": {
 		"vscode": "^1.41.0"
 	},
